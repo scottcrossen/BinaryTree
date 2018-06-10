@@ -4,7 +4,7 @@ A simple implementation of a binary search tree.
 
 ### Description
 
-I originally built this project to pass off the requirements for the BYU CS 235 project 6 assignment
+I originally built this project to pass off the requirements for the BYU CS 235 project 6 assignment. It is a classic implementation of a binary search tree.
 
 ### Explanatory Note
 
